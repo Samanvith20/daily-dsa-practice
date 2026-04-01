@@ -84,6 +84,6 @@ I follow the **1-3-7 Rule**:
 ## 📌 Author
 
 **Samanvith**
-Frontend Developer | DSA Learner 🚀
+Fullstack Developer | DSA Learner 🚀
 
 ---
