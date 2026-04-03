@@ -46,5 +46,7 @@ function countNegatives(arr) {
 
   return count;
 }
+// IsFinite checks if a value is a finite number (not Infinity, -Infinity, or NaN)
+
 
 console.log(countNegatives([-1, 2, -3, 4])); 
