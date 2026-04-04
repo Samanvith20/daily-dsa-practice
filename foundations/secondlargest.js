@@ -39,7 +39,7 @@ var secondHighest = function(s) {
             secondHighest = firstHighest;
             firstHighest = arr[i];
         } 
-        else if (arr[i] > secondHighest && arr[i] !== firstHighest) { // ✅ FIXED
+        else if (arr[i] > secondHighest && arr[i] !== firstHighest) {
             secondHighest = arr[i];
         }
     }
